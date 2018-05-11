@@ -1,0 +1,7 @@
+C:\Users\ntorr\Source\Repos\CPractice\CPractice\bin\Debug\CPractice.exe.config
+C:\Users\ntorr\Source\Repos\CPractice\CPractice\bin\Debug\CPractice.exe
+C:\Users\ntorr\Source\Repos\CPractice\CPractice\bin\Debug\CPractice.pdb
+C:\Users\ntorr\Source\Repos\CPractice\CPractice\obj\Debug\CPractice.csprojResolveAssemblyReference.cache
+C:\Users\ntorr\Source\Repos\CPractice\CPractice\obj\Debug\CPractice.csproj.CoreCompileInputs.cache
+C:\Users\ntorr\Source\Repos\CPractice\CPractice\obj\Debug\CPractice.exe
+C:\Users\ntorr\Source\Repos\CPractice\CPractice\obj\Debug\CPractice.pdb
